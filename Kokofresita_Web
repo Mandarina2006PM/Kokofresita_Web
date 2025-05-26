@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Koko fresita - Minipanqueques deliciosos</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0; padding: 0;
+    background: #fff0f6;
+    color: #4a3c57;
+  }
+  header {
+    background: #f8c6d8;
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #5a2a48;
+  }
+  main {
+    max-width: 900px;
+    margin: 1rem auto;
+    padding: 0 1rem;
+  }
+  section {
+    background: #fff;
+    margin-bottom: 1.8rem;
+    padding: 1.5rem 1.5rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(90, 42, 72, 0.15);
+  }
+  h2 {
+    color: #a83961;
+    margin-bottom: 0.8rem;
+  }
+  p {
+    line-height: 1.5;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+  .btn-whatsapp {
+    display: inline-block;
+    background-color: #25d366;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  .btn-whatsapp:hover {
+    background-color: #1ebe57;
+  }
+  footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #7a5a75;
+  }
+  @media (max-width: 600px) {
+    header {
+      font-size: 1.8rem;
+      padding: 1rem;
+    }
+    main {
+      margin: 0.8rem;
+    }
+  }
+</style>
+</head>
+<body>
+<header>Koko fresita</header>
+<main>
+  <section id="inicio">
+    <h2>¡El placer de los minipanqueques frescos y deliciosos!</h2>
+    <p>Bienvenido a <strong>Koko fresita</strong>, donde cada bocado es una fiesta de sabor. Nuestros minipanqueques con frutilla y guineo son el antojo perfecto para cualquier momento del día. ¿Quieres darle un toque extra? Elige entre dulce de leche, leche condensada o leche en polvo. ¡Pruébalos y enamórate!</p>
+    <a href="#pedidos" class="btn-whatsapp">Haz tu pedido ahora</a>
+  </section>
+  <section id="productos">
+    <h2>Productos</h2>
+    <ul>
+      <li><strong>Envase pequeño:</strong> ideal para un antojo rápido.</li>
+      <li><strong>Banderilla pequeña:</strong> perfecto para compartir.</li>
+      <li><strong>Banderilla grande:</strong> para los más golosos.</li>
+    </ul>
+    <p><strong>Toppings disponibles:</strong> dulce de leche, leche condensada, leche en polvo.</p>
+    <p><strong>Precios:</strong><br>1 unidad - 8 Bs<br>2 unidades - 15 Bs</p>
+  </section>
+  <section id="sobre-nosotros">
+    <h2>Sobre Nosotros</h2>
+    <p>En <strong>Koko fresita</strong> nos apasiona endulzar tus días con productos frescos, caseros y llenos de sabor. Creemos que un buen postre es capaz de transformar cualquier momento en algo especial. Nuestra misión es llevar hasta tu puerta la frescura y calidad en cada minipanqueque.</p>
+  </section>
+  <section id="pedidos">
+    <h2>Pedidos</h2>
+    <p>Haz tu pedido fácil y rápido por WhatsApp:</p>
+    <a href="https://wa.me/59177384127" target="_blank" class="btn-whatsapp">Contactar por WhatsApp</a>
+  </section>
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>¿Tienes dudas o quieres un pedido especial? Escríbenos:</p>
+    <ul>
+      <li>WhatsApp: 77384127</li>
+      <li>Instagram: <a href="https://instagram.com/kokofresita" target="_blank">@kokofresita</a></li>
+      <li>Facebook: <a href="https://facebook.com/kokofresita" target="_blank">Koko fresita</a></li>
+    </ul>
+    <p>Horario de atención: Lunes a Sábado, 8 AM a 8 PM</p>
+  </section>
+</main>
+<footer>
+  &copy; 2025 Koko fresita. Todos los derechos reservados.
+</footer>
+</body>
+</html>
+
+
+
+
